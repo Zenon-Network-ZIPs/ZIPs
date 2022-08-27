@@ -9,7 +9,7 @@ This repository aggregates all ZIP repositories hosted by Pillars.  In order to 
 
 ## Proof of Pillar
 
-File Name: 0001.md
-Pillar Name: #INSERT
-Pillar Address: #INSERT
-Signed Message: Zenon Network is an Independent Entity 
+- File Name: 0001.md
+- Pillar Name: #INSERT
+- Pillar Address: #INSERT
+- Signed Message: Zenon Network is an Independent Entity 
