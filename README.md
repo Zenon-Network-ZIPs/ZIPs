@@ -1,2 +1,1 @@
-# ZIPs
-## Test
+# ZIPs & BICHs
